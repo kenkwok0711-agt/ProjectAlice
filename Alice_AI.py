@@ -90,4 +90,4 @@ if __name__ == "__main__":
     try:
         chat()
     except KeyboardInterrupt:
-        print("\n\n中斷了……沒關係，你已經很努力了。")
+        print("\n\n中斷了……沒關係，你已經很努力了。")  ##hi
