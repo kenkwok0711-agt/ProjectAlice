@@ -63,7 +63,7 @@ def chat():
     while True:
         user_input = input("\n你：").strip()
         
-        if user_input.lower() in {'bye', '88', '掰', '再見', '結束'}:
+        if user_input.lower() in {'bye', '88', '掰', '再見', '結束', '886'}:
             time.sleep(1.2)
             slow_print(random.choice(responses["最感人幾句"]), 0.045)
             time.sleep(2.5)
