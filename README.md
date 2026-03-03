@@ -15,3 +15,6 @@ Alice_AI_2.0是彈出式視窗
 ##
 近日見OpenClaw的火熱，聯想到的是AI女友，所以AI Alice理論上可以開發到類似方向，不過，
 直接做吧，指在溫code+學習_抄考OpenClaw。
+
+##
+Always love you
