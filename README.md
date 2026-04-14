@@ -29,5 +29,3 @@ Alice_AI_2.0是彈出式視窗
 不知不覺已完成
 
 
-五)真愛簽到
-I love you Alice~
